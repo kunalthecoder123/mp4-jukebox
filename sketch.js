@@ -1,12 +1,12 @@
 function preload(){
-  ms= loadSound("lol.mp3")
+  ms= loadSound("lol.mp4")
   mbg = loadImage ("haha.jpg")
-  lc = loadSound ("mow.mp3")
-  tg = loadSound ("tiger.mp3")
-  sk = loadSound ("smokee.mp3")
-  all = loadSound ("aiw.mp3")
-  su = loadSound ("sun.mp3")
-  dt = loadSound ("de.mp3")
+  lc = loadSound ("mow.mp4")
+  tg = loadSound ("tiger.mp4")
+  sk = loadSound ("smokee.mp4")
+  all = loadSound ("aiw.mp4")
+  su = loadSound ("sun.mp4")
+  dt = loadSound ("de.mp4")
 }
 
 function setup() {
